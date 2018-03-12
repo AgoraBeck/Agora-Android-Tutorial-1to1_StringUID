@@ -59,7 +59,7 @@ public class VideoChatViewActivity extends AppCompatActivity {
             });
         }
     };
-private static String localUid = String.valueOf(String.valueOf(System.currentTimeMillis()));
+private static String localUid = String.valueOf(System.currentTimeMillis());
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
